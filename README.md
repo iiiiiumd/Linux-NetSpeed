@@ -1,6 +1,5 @@
 # Linux-NetSpeed
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
-chmod +x tcp.sh
-./tcp.sh
+wget -N https://raw.githubusercontent.com/iiiiiumd/Linux-NetSpeed/master/tcp.sh
+sudo bash tcp.sh
 ```
